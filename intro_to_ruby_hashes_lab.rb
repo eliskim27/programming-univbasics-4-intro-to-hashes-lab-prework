@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  my_hash = {:1 => "box", :2 => "bottle", :3 => "remote"}
+  my_hash = {"1" => "box", "2" => "bottle", "3" => "remote"}
   my_hash
 end
 
